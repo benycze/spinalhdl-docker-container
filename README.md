@@ -4,7 +4,7 @@
 
 This repository contains a prepared build script of SpinalHDL compiler for the Docker tool. This is useful if you don't want to deal with dependencies in your Linux distribution (or in Windows).
 
-The only thing you need is to install the [Docker](https://www.docker.com/) or [Podman](https://podman.io/) (use the Podman tool because it is much better ;)).
+The only thing you need is to install the [Docker](https://www.docker.com/) or [Podman](https://podman.io/) (use the Podman tool because it is much better).
 
 The image  contains:
 
